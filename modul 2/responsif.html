@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        body {
+            background-color: lightblue;
+            font-family: Arial, sans-serif;
+        }
+
+        h1 {
+            text-align: center;
+            font-size: 40px;
+            color: black;
+        }
+
+        .grid-container {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 15px;
+            padding: 10px;
+        }
+
+        .grid-item {
+            background-color: #4CAF50;
+            color: white;
+            padding: 30px;
+            font-size: 22px;
+            text-align: center;
+        }
+
+        @media only screen and (max-width: 600px) {
+
+            body {
+                background-color: red;
+            }
+
+            .grid-container {
+                grid-template-columns: 1fr;
+            }
+
+            h1 {
+                font-size: 25px;
+            }
+
+            .grid-item {
+                font-size: 16px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Responsive Grid Layout</h1>
+
+    <div class="grid-container">
+        <div class="grid-item">Item 1</div>
+        <div class="grid-item">Item 2</div>
+        <div class="grid-item">Item 3</div>
+    </div>
+
+</body>
+
+</html>
