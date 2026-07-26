@@ -93,6 +93,4 @@ Seluruh kode pada repository ini dibuat sebagai bagian dari proses pembelajaran.
 
 ### ⭐ Thank You for Visiting ⭐
 
-Jika repository ini bermanfaat, jangan lupa beri **Star**.
-
 </div>
