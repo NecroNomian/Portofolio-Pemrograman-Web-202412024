@@ -1,112 +1,98 @@
 <div align="center">
 
-# 🌐 Portofolio Pemrograman Web
+# 🚀 Web Programming Portfolio
 
 ### Muhammad Ruwaifih Abrar
 **NIM : 202412024**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+> *"Learning by Building, Growing by Coding."*
 
-*Repository ini berisi kumpulan tugas, latihan, dan proyek praktikum mata kuliah **Pemrograman Web** selama satu semester.*
+![GitHub repo size](https://img.shields.io/github/repo-size/NecroNomian/Portofolio-Pemrograman-Web-202412024?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/NecroNomian/Portofolio-Pemrograman-Web-202412024?style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github)
 
 </div>
 
 ---
 
-# 📖 Tentang Repository
+# 📌 Deskripsi
 
-Repository ini dibuat sebagai dokumentasi hasil pembelajaran mata kuliah **Pemrograman Web**.
+Repository ini merupakan dokumentasi hasil pembelajaran selama mengikuti mata kuliah **Pemrograman Web**.
 
-Di dalam repository ini terdapat berbagai tugas mulai dari:
-
-- Dasar HTML
-- CSS dan Layouting
-- Bootstrap
-- JavaScript
-- PHP
-- MySQL
-- Git & GitHub
-
-Setiap modul disimpan pada folder terpisah agar lebih mudah dipelajari kembali.
+Setiap folder berisi latihan, tugas, maupun implementasi materi yang dipelajari mulai dari pembuatan halaman web sederhana hingga pengembangan aplikasi berbasis PHP dan MySQL.
 
 ---
 
-# 📂 Struktur Repository
+# 💻 Tech Stack
 
-```text
-📁 Portofolio-Pemrograman-Web-202412024
-│
-├── 📁 Modul-1
-├── 📁 Modul-2
-├── 📁 Modul-3
-├── 📁 Modul-4
-├── 📁 Modul-5
-├── 📁 Modul-6
-├── 📁 Modul-7
-└── 📄 README.md
-```
+| Front-End | Back-End | Database | Tools |
+|-----------|-----------|----------|-------|
+| HTML5 | PHP | MySQL | Git |
+| CSS3 | JavaScript | phpMyAdmin | GitHub |
+| Bootstrap 5 | - | - | VS Code |
 
 ---
 
-# 📚 Daftar Modul
+# 📁 Isi Repository
 
-| Modul | Materi | Deskripsi |
-|:----:|:-----------------|:--------------------------------------------|
-| 01 | HTML Dasar | Struktur halaman web dan elemen HTML |
-| 02 | CSS | Styling, Layout, Flexbox, Grid |
-| 03 | Bootstrap | Responsive Web Design menggunakan Bootstrap |
-| 04 | JavaScript | DOM, Event, Function, Form Validation |
-| 05 | PHP | Dasar Pemrograman PHP |
-| 06 | MySQL | Database dan Operasi CRUD |
-| 07 | Git & GitHub | Version Control dan Repository |
-
----
-
-# 🛠️ Teknologi yang Digunakan
-
-- HTML5
-- CSS3
-- Bootstrap 5
-- JavaScript
-- PHP
-- MySQL
-- Git
-- GitHub
+| Folder | Materi |
+|---------|-------------------------------|
+| 📂 Modul-1 | HTML Dasar |
+| 📂 Modul-2 | CSS |
+| 📂 Modul-3 | Bootstrap |
+| 📂 Modul-4 | JavaScript |
+| 📂 Modul-5 | Dasar dasar PHP |
+| 📂 Modul-6 | PHP & MySQL |
+| 📂 Modul-7 | Git & GitHub |
 
 ---
 
-# 🎯 Tujuan Repository
+# 🎯 Tujuan Pembuatan
 
-Repository ini dibuat untuk:
+Repository ini dibuat sebagai:
 
-- Menyimpan seluruh tugas praktikum.
-- Mendokumentasikan perkembangan pembelajaran.
-- Menjadi portofolio selama perkuliahan.
-- Mempermudah proses evaluasi tugas oleh dosen.
+- 📚 Arsip seluruh tugas praktikum.
+- 💼 Portofolio hasil belajar.
+- 🔍 Dokumentasi perkembangan kemampuan.
+- 🖥️ Referensi untuk pembelajaran berikutnya.
 
 ---
 
-# 👨‍💻 Profil Mahasiswa
+# 📊 Progress Pembelajaran
 
-**Nama** : Muhammad Ruwaifih Abrar
+| Materi | Status |
+|---------|:------:|
+| HTML | ✅ |
+| CSS | ✅ |
+| Bootstrap | ✅ |
+| JavaScript | ✅ |
+| PHP | ✅ |
+| MySQL | ✅ |
+| Git & GitHub | ✅ |
 
-**NIM** : 202412024
+---
 
-**Program Studi** : Teknik Informatika
+# 👨‍🎓 Informasi Mahasiswa
 
-**Mata Kuliah** : Pemrograman Web
+| Keterangan | Isi |
+|------------|----------------------------|
+| Nama | Muhammad Ruwaifih Abrar |
+| NIM | 202412024 |
+| Program Studi | Teknik Informatika |
+| Mata Kuliah | Pemrograman Web |
+
+---
+
+# 📜 Catatan
+
+Seluruh kode pada repository ini dibuat sebagai bagian dari proses pembelajaran. Struktur repository akan terus diperbarui seiring bertambahnya materi maupun proyek baru.
 
 ---
 
 <div align="center">
 
-### ⭐ Terima kasih telah mengunjungi repository ini.
+### ⭐ Thank You for Visiting ⭐
 
-Jangan lupa berikan ⭐ jika repository ini bermanfaat.
+Jika repository ini bermanfaat, jangan lupa beri **Star**.
 
 </div>
